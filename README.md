@@ -2,66 +2,80 @@
 
 # Diego Gallina
 
-**Business Development · Finanças · Engenharia de IA aplicada**
+**Economics & quantitative research · applied AI · finance**
 
-Economia & Administração — Fucape Business School
+Undergraduate in Economics & Business Administration — Fucape Business School
 Business Development Specialist @ Wisers Information Limited (Hong Kong)
-Diretor Presidente @ Fucape Jr.
+President @ Fucape Jr.
 
-📍 Vitória, ES, Brasil
+📍 Vitória, ES, Brazil
 
 </div>
 
 <br>
 
-## Sobre
+## About
 
-Trabalho na interseção entre diagnóstico de negócio e execução técnica. Do lado estratégico, atuo em consultoria de expansão internacional, modelagem financeira e governança. Do lado técnico, construo os sistemas que automatizam o que essa estratégia exige — de agentes de IA a plataformas contábeis completas.
+I work where empirical questions meet the systems that answer them. Three years as a funded research assistant (Fapes/Ifes) taught me the slow half — designing a question, cleaning the data, defending the estimate. The work since has been the fast half: building the pipelines, models and LLM tooling that turn messy real-world records into something you can actually run a number on.
 
-Na Wisers, conduzo projetos de inteligência de mercado end-to-end para empresas entrando no Brasil, negociando em inglês com stakeholders na Ásia. Como Diretor Presidente da Fucape Jr., liderei uma reestruturação que gerou +500% de crescimento no faturamento anual e arquitetei o DSisCont do zero, com um módulo de IA que cortou 70% do trabalho manual de categorização contábil.
+Most of what I do now sits in that overlap. At Wisers I run end-to-end market intelligence for firms entering Brazil — desk research, sizing, competitive and regulatory landscape — negotiating in English with stakeholders across Asia. At Fucape Jr. I led a restructuring that grew annual revenue **+500%**, and architected DSisCont, an accounting platform whose LLM classification module removed **~70%** of manual document categorization.
+
+I like problems where the measurement is the hard part.
 
 <br>
 
-## Projetos
+## What I work on
+
+**Applied econometrics & quantitative analysis** — panel and cross-sectional data, descriptive and causal designs, reproducible analysis in R and Python.
+
+**Text as data** — parsing and classifying unstructured documents (invoices, filings, bank statements) into structured panels using LLMs, with validation against hand-labeled samples.
+
+**Financial modeling & valuation** — DRE and balance-sheet construction, ROE/ROA decomposition, cash-flow projection, scenario analysis.
+
+**Market & competitive intelligence** — sizing, entry strategy and regulatory mapping for cross-border expansion.
+
+<br>
+
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[ai-scheduling-agent-whatsapp](https://github.com/diegogallina1/ai-scheduling-agent-whatsapp)**
+**DSisCont** — Fucape Jr.
 
-Agente conversacional de agendamento para clínicas via WhatsApp, usando a API da Claude com tool use.
+Full accounting platform: income statement and balance sheet (ROE/ROA), OFX bank reconciliation, NF-e invoice parsing, and LLM-based document classification. Designed and built from scratch; the classification module cut manual categorization by ~70%.
 
-`Node.js` `Firebase`
+`React` `Electron` `TypeScript` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-**[clinic-finance-dashboard](https://github.com/diegogallina1/clinic-finance-dashboard)**
+**[car-deal-monitor](https://github.com/diegogallina1/car-deal-monitor)**
 
-Dashboard financeiro para clínicas: contas a receber, projeção de fluxo de caixa e relatórios mensais automatizados.
+Scrapes listings across marketplaces, scores each against a reference price table, and flags statistical outliers as buying opportunities. A small, honest exercise in pricing and anomaly detection on live data.
 
-`React` `Firebase` `Chart.js`
+`Python` `Firebase`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[car-deal-monitor](https://github.com/diegogallina1/car-deal-monitor)**
+**[clinic-finance-dashboard](https://github.com/diegogallina1/clinic-finance-dashboard)**
 
-Monitora anúncios de carros em marketplaces, pontua contra uma tabela de referência e dispara alertas de oportunidade.
+Financial dashboard for clinics: receivables, cash-flow projection and automated monthly reporting, built for non-technical operators.
 
-`Python` `Firebase`
+`React` `Firebase` `Chart.js`
 
 </td>
 <td width="50%" valign="top">
 
-**DSisCont** — Fucape Jr.
+**[ai-scheduling-agent-whatsapp](https://github.com/diegogallina1/ai-scheduling-agent-whatsapp)**
 
-Plataforma contábil completa: DRE, Balanço (ROE/ROA), conciliação OFX, parsing de NF-e e classificação de documentos via LLM.
+Conversational scheduling agent for clinics over WhatsApp, built on the Claude API with tool use and a stateful booking backend.
 
-`React` `Electron` `TypeScript` `Python`
+`Node.js` `Firebase`
 
 </td>
 </tr>
@@ -69,34 +83,36 @@ Plataforma contábil completa: DRE, Balanço (ROE/ROA), conciliação OFX, parsi
 
 <br>
 
-## Experiência
+## Experience
 
 ```
-2024 — atual     Business Development Specialist, Wisers Information Limited
-                  Consultoria de expansão internacional · 9 contratos fechados
+2024 — present   Business Development Specialist · Wisers Information Limited
+                 Cross-border market intelligence and expansion advisory
+                 9 contracts closed · English-language negotiation across Asia
 
-2025 — atual     Diretor Presidente, Fucape Jr.
-                  Reestruturação estratégica · +500% de faturamento anual
+2025 — present   President · Fucape Jr.
+                 Strategic restructuring · +500% annual revenue
+                 Architected DSisCont end to end
 
-2025 — 2026      Membro do conselho, Fucape Finance League
-                  Governança · imersão institucional em Brasília
+2025 — 2026      Board member · Fucape Finance League
+                 Governance · institutional immersion program in Brasília
 
-2021 — 2024      Pesquisador bolsista, Fapes / Ifes
-                  Pesquisa aplicada e análise quantitativa
+2021 — 2024      Research assistant (funded) · Fapes / Ifes
+                 Applied research and quantitative analysis
 ```
 
 <br>
 
-## Formação & certificações
+## Education & certifications
 
-**Bacharelado em Economia e Administração** — Fucape Business School (2023–2027)
-Bolsista 100% por desempenho acadêmico
+**B.A. Economics & Business Administration** — Fucape Business School, 2023–2027
+100% merit scholarship for academic performance
 
-IBM AI Engineering Professional Certificate · CEAV — Especialista em Ativos Virtuais · EF SET English C2 · Excel com IA (DIO)
+IBM AI Engineering Professional Certificate · CEAV Virtual Asset Specialist · EF SET English C2 · Excel with AI (DIO)
 
 <br>
 
-## Stack
+## Toolkit
 
 <div align="center">
 
@@ -107,14 +123,18 @@ IBM AI Engineering Professional Certificate · CEAV — Especialista em Ativos V
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
+</div>
+
+<div align="center">
+<sub>Portuguese (native) · English (C2) — open to research collaborations.</sub>
 </div>
 
 <br>
 
 <div align="center">
 
-<sub>DGO Foresight & Intel · IA, automação e consultoria</sub>
+<sub>DGO Foresight & Intel · AI, automation and advisory</sub>
 
 </div>
