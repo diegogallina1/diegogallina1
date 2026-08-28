@@ -5,7 +5,7 @@
 **Economics · quantitative finance research · applied AI**
 
 Undergraduate in Economics & Business Administration — Fucape Business School
-Business Development Specialist @ Wisers Information Limited (Hong Kong)
+Business | Development Specialist @ Wisers Information Ltd (Hong Kong)
 President @ Fucape Jr.
 
 📍 Vitória, ES, Brazil
