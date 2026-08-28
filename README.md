@@ -115,6 +115,6 @@ IBM AI Engineering Professional Certificate · CEAV — Especialista em Ativos V
 
 <div align="center">
 
-<sub>DGO Applied Intelligence · IA, automação e consultoria</sub>
+<sub>DGO Foresight & Intel · IA, automação e consultoria</sub>
 
 </div>
