@@ -50,7 +50,7 @@ Two papers written up from the work: Fucape BTech 2026 and IEEE CIFEr 2027, with
 
 ### [SantaTeresa-Microclima-Lab](https://github.com/diegogallina1/SantaTeresa-Microclima-Lab) — microclimate analysis of Santa Teresa (ES)
 
-Interdisciplinary collaboration with an environmental science student at Ifes: climatology of a mountain valley from INMET/INCAPER historical series — extremes, monthly rainfall concentration, humidity trend, and a logistic rainfall predictor. I handle ingestion, cleaning and modeling; my collaborator sets the environmental criteria and interprets the findings. `Python` `Jupyter` — in progress.
+Climatology of a mountain valley in Espírito Santo, built from INMET/INCAPER historical series: temperature extremes, which month rainfall actually concentrates in, whether the microclimate is drying over time, and a logistic rainfall predictor. Hourly station data with the INMET format handled at ingestion — `-9999` missing codes, UTC conversion, and column names that change from year to year. `Python` `Jupyter` — in progress.
 
 <br>
 
